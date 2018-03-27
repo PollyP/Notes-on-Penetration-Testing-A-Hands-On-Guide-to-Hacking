@@ -11,7 +11,7 @@ P.S.: I understand that the author is working on a second edition of "Penetratio
 
 ## Before you start
 
-The author has some book updates posted [here](http://bulbsecurity.com/products/penetration-testing-book/#1458760607758-532c63a6-96d7). There are some other updates on the [book’s No Starch Press website](https://nostarch.com/pentesting). Be sure to look these over before you get started.
+The author has some book updates posted [here](http://bulbsecurity.com/products/penetration-testing-book/#1458760607758-532c63a6-96d7). There are some other updates on the [book’s No Starch Press website](https://nostarch.com/pentesting). Be sure to look these over.
 
 ## My test lab
 
