@@ -117,8 +117,6 @@ Better yet, mimikatz is  built right into the meterpreter. Here’s an example:
     password"
     "
     password"
-   [snip]
-
 
 ## MS10_002_aurora
 
