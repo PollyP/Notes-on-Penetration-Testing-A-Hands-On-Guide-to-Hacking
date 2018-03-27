@@ -1,4 +1,5 @@
-# 2018 Notes to "Penetration Testing: A Hands-On Guide to Hacking"
+
+
 
 I recently worked my way through Georgia Weidman's excellent book “Penetration Testing: A Hands-On Guide to Hacking.” This is the third introductory pentesting book I've read, and it's by far the best: it lays out wonderfully clear explanations about what's going on, and reinforces the material with terrific hands-on exercises. This book has motivated me to keep building and improving on my skills. Aspiring pentesters, this is your book.
 
