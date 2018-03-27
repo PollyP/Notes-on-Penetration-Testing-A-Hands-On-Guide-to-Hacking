@@ -1,7 +1,7 @@
 
 ## 2018 Notes
 
-I recently worked my way through Georgia Weidman's excellent book “Penetration Testing: A Hands-On Guide to Hacking.” This is the third introductory pentesting book I've read, and it's by far the best: it lays out wonderfully clear explanations about what's going on, and reinforces the material with terrific hands-on exercises. This book has motivated me to keep building and improving on my skills. Aspiring pentesters, this is your book.
+I recently worked my way through Georgia Weidman's excellent book “Penetration Testing: A Hands-On Guide to Hacking.” This is the third introductory pentesting book I've read, and it's by far the best: it lays out wonderfully clear explanations about what's going on, and reinforces the material with fun, informative hands-on exercises. Aspiring pentesters, this is your book.
 
 You can get "Penetration Testing" at [No Starch Press's website](https://nostarch.com/pentesting). Tip: Georgia Weidman has posted a generous coupon code for the book on her [Twitter bio page](https://twitter.com/georgiaweidman).
 
