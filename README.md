@@ -9,7 +9,7 @@ So why "2018 Notes"? "Penetration Testing" was published in June 2014, and, four
 
 **UPDATE: The author has offered to help people working their way through the book to find the old versions of software used in her book. That's going to be a waaaaay easier path to follow than using my workarounds, so you should definitely take her up on her kind offer. Look at the pinned tweet on [Georgia Weidman's Twitter bio page](https://twitter.com/georgiaweidman) for the details. H/T to Joseph G. for pointing this out to me.**
 
-P.S.: I understand that the author is working on a second edition of "Penetration Testing." Before we start, we should all get into meditative positions and send her our most awesomest positive book-writing vibes. I am visualizing: a second edition, full of new tasty morsels of pentesting goodness and enlightenment. And I am also visualizing: buying the second edition the instant it comes out. ** UPDATE: The author has a (patreon)[https://www.patreon.com/georgiaweidman] up to support her work on the second edition. I was very happy to sign up and make this book happen sooner.**
+P.S.: I understand that the author is working on a second edition of "Penetration Testing." Before we start, we should all get into meditative positions and send her our most awesomest positive book-writing vibes. I am visualizing: a second edition, full of new tasty morsels of pentesting goodness and enlightenment. And I am also visualizing: buying the second edition the instant it comes out. **UPDATE: The author has a (patreon)[https://www.patreon.com/georgiaweidman] up to support her work on the second edition. I was very happy to sign up and make this book happen sooner.**
 
 ## Before you start
 
